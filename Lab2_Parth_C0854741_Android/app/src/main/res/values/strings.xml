@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2_Parth_C0854741_Android</string>
+    <string name="txt_edit">Update</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_add">Add Product</string>
+    <string name="txt_product_id">Product ID</string>
+    <string name="txt_product_name">Product Name</string>
+    <string name="txt_product_description">Product Description</string>
+    <string name="txt_product_price">Product Price</string>
+</resources>
